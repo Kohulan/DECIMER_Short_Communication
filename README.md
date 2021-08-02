@@ -1,1 +1,1 @@
-# DECIMER_Short_Communication
+# DECIMER Short Communication
