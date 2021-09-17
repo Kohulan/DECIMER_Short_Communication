@@ -3,6 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Kohulan/DECIMER_Short_Communication.svg)](https://GitHub.com/Kohulan/DECIMER_Short_Communication/issues/)
 [![GitHub contributors](https://img.shields.io/github/contributors/Kohulan/DECIMER_Short_Communicationr.svg)](https://GitHub.com/Kohulan/DECIMER_Short_Communication/graphs/contributors/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5155037.svg)](https://doi.org/10.5281/zenodo.5155037)
+[![DOI](https://zenodo.org/badge/391955095.svg)](https://zenodo.org/badge/latestdoi/391955095)
 
 # Performance of chemical structure string representations for chemical image recognition using transformers
 
