@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article from preferred-citation and the software itself."
+title: "Performance of chemical structure string representations for chemical image recognition using transformers"
+abstract: "The use of molecular string representations for deep learning in chemistry has been steadily increasing in recent years. The complexity of existing string representations, and the difficulty in creating meaningful tokens from them, lead to the development of new string representations for chemical structures. In this study, the translation of chemical structure depictions in the form of bitmap images to corresponding molecular string representations was examined. An analysis of the recently developed DeepSMILES and SELFIES representations in comparison with the most commonly used SMILES representation is presented where the ability to translate image features into string representations with transformer models was specifically tested. The SMILES representation exhibits the best overall performance whereas SELFIES guarantee valid chemical structures. DeepSMILES perform in between SMILES and SELFIES, InChIs are not appropriate for the learning task. All investigations were performed using publicly available datasets and the code used to train and evaluate the models has been made available to the public.
+"
+authors:
+  - family-names: "Rajan"
+    given-names: "Kohulan"
+    orcid: "https://orcid.org/0000-0003-1066-7792"
+  - family-names: "Zielesny"
+    given-names: "Achim"
+    orcid: "https://orcid.org/0000-0003-0722-4229"
+  - family-names: "Steinbeck"
+    given-names: "Christoph"
+    orcid: "https://orcid.org/0000-0001-6966-0814"    
+version: 1.0
+date-released: "2021-09-17"
+identifiers:
+  - description: "This is the scientific publication which describes the software"
+    type: doi
+    value: "n/a"
+  - description: "This is the archived snapshot"
+    type: doi
+    value: "10.5281/zenodo.5513452"
+  - description: "Data archive"
+    type: doi
+    value: "10.5281/zenodo.5155037"
+license: MIT
+repository-code: "https://github.com/Kohulan/DECIMER_Short_Communication"
