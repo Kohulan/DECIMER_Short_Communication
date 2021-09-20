@@ -31,7 +31,7 @@ $ bash Miniconda3-latest-Linux-x86_64.sh
 
 ## Citation
 
-- To do
+- Rajan K, Steinbeck C, Zielesny A. Performance of chemical structure string representations for chemical image recognition using transformers. ChemRxiv. Cambridge: Cambridge Open Engage; 2021;  This content is a preprint and has not been peer-reviewed.
 
 ## Acknowledgement
 - We are grateful for the company @Google making free computing time on their TensorFlow Research Cloud infrastructure available to us. 
