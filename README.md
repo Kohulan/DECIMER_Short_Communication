@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Kohulan/DECIMER_Short_Communication/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/Kohulan/DECIMER_Short_Communication.svg)](https://GitHub.com/Kohulan/DECIMER_Short_Communication/issues/)
-[![GitHub contributors](https://img.shields.io/github/contributors/Kohulan/DECIMER_Short_Communicationr.svg)](https://GitHub.com/Kohulan/DECIMER_Short_Communication/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Kohulan/DECIMER_Short_Communicationr.svg)](https://github.com/Kohulan/DECIMER_Short_Communication/graphs/contributors/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5155037.svg)](https://doi.org/10.5281/zenodo.5155037)
 [![DOI](https://zenodo.org/badge/391955095.svg)](https://zenodo.org/badge/latestdoi/391955095)
 
